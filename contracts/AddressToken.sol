@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/utils/Base64.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "solmate/src/utils/CREATE3.sol";
 
-contract AddressToken is ERC721("1inch Address NFT", "1ANFT") {
+contract AddressToken is ERC721("deta Address NFT", "1ANFT") {
     error AccessDenied();
     error RemintForbidden();
     error CallReverted(uint256, bytes);

@@ -2,7 +2,7 @@ const hre = require('hardhat');
 const { ethers } = hre;
 const { loadFixture } = require('@nomicfoundation/hardhat-network-helpers');
 const { expect } = require('chai');
-const { trim0x } = require('@1inch/solidity-utils');
+const { trim0x } = require('@deta/solidity-utils');
 const { BigNumber } = require('ethers');
 
 describe('AddressToken', async function () {

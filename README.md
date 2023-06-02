@@ -1,4 +1,4 @@
-# 1inch Address NFT
+# deta Address NFT
 
 Mainnet deployment: [0x1Add4e558Ce81fbdFD097550894CBdF37D448a9E](https://etherscan.io/address/0x1Add4e558Ce81fbdFD097550894CBdF37D448a9E)
 
@@ -19,7 +19,7 @@ Token owners can deploy smart contracts to their owned addresses by providing th
 ## Contract Details
 
 - Contract Name: AddressToken
-- Token Name: 1inch Address NFT
+- Token Name: deta Address NFT
 - Token Symbol: 1ANFT
 
 ## Functions

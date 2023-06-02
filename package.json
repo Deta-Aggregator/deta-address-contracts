@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@1inch/solidity-utils": "2.2.25",
+    "@deta/solidity-utils": "2.2.25",
     "@openzeppelin/contracts": "4.8.3",
     "solmate": "6.7.0"
   },
